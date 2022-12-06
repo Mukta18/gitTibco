@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<Catalog xmlns="http://www.tibco.com/schemas/3.ParseRenderXML/Resources/Schemas/Models/Catalog"> 
-  <Course	xmlns="http://www.tibco.com/schemas/3.ParseRenderXML/Resources/Schemas/Models/Course">
+<Catalog xmlns="http://www.tibco.com/schemas/4.2.ParseRenderXML/Resources/Schemas/Models/Catalog"> 
+  <Course	xmlns="http://www.tibco.com/schemas/4.2.ParseRenderXML/Resources/Schemas/Models/Course">
      <id>1</id>
 	 <author>E.Balaguruswamy</author>
 	 <title>Code With Mukta</title>
@@ -9,7 +9,7 @@
 	 <price>500.0</price>
 	 <publishDate>2022-10-12</publishDate>
 	</Course>
-	<Course	xmlns="http://www.tibco.com/schemas/3.ParseRenderXML/Resources/Schemas/Models/Course">
+	<Course	xmlns="http://www.tibco.com/schemas/4.2.ParseRenderXML/Resources/Schemas/Models/Course">
      <id>2</id>
 	 <author>E.Bala</author>
 	 <title>Code With rahul</title>

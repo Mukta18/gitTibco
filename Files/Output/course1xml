@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ns0:Course xmlns:ns0="http://www.tibco.com/schemas/3.ParseRenderXML/Resources/Schemas/Models/Course">
+<ns0:Course xmlns:ns0="http://www.tibco.com/schemas/4.2.ParseRenderXML/Resources/Schemas/Models/Course">
     <ns0:id>1</ns0:id>
     <ns0:author>E.Balaguruswamy</ns0:author>
     <ns0:title>Code With Mukta</ns0:title>
