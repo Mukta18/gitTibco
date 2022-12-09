@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataDefinition>
+  <Element>
+     <source>
+             <sourcePath>C:\Users\muktanand.gautam\Downloads\PortableGit\mydir\gitTibco\Files\Input\Bhopal\</sourcePath>
+	         <sourceFilePattern>*</sourceFilePattern>
+	  </source>
+	  <target>
+      <targetPath>C:\Users\muktanand.gautam\Downloads\PortableGit\mydir\gitTibco\Files\Output\Bhopal\</targetPath>
+	 </target>
+	 <messageSelector>PT</messageSelector>
+  </Element>
+  <Element>
+     <source>
+      <sourcePath>C:\Users\muktanand.gautam\Downloads\PortableGit\mydir\gitTibco\Files\Input\Indore\</sourcePath>
+	  <sourceFilePattern>*</sourceFilePattern>
+	  </source>
+	  <target>
+      <targetPath>C:\Users\muktanand.gautam\Downloads\PortableGit\mydir\gitTibco\Files\Output\Indore\</targetPath>
+	 </target>
+	 <messageSelector>SP</messageSelector>
+  </Element>
+  <Element>
+     <source>
+      <sourcePath>C:\Users\muktanand.gautam\Downloads\PortableGit\mydir\gitTibco\Files\Input\Gurgaon\</sourcePath>
+	  <sourceFilePattern>*</sourceFilePattern>
+	 </source>
+	 <target>
+      <targetPath>C:\Users\muktanand.gautam\Downloads\PortableGit\mydir\gitTibco\Files\Output\Gurgaon\</targetPath>
+	 </target>
+	 <messageSelector>GER</messageSelector>
+  </Element>
+</DataDefinition>
